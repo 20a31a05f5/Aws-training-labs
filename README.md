@@ -1,1 +1,0 @@
-# Aws-training-labs
